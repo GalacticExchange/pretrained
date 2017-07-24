@@ -34,7 +34,7 @@ DenseNet | https://github.com/flyyufelix/DenseNet-Keras
 
 Model | Url  | 
 :----:|:------------:|
-http://www.vlfeat.org/matconvnet/pretrained/#object-detection
+Fast-RCNN | https://github.com/rbgirshick/fast-rcnn
 
 ## Face recognition
 Model | Url  | 
