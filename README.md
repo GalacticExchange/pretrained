@@ -5,16 +5,8 @@
 # Pre-trained Models
 <a id='Pretrained'></a>
 
-Neural nets work best when they have many parameters, making them powerful
-function approximators.
-However, this  means they must be trained on very large datasets. Because
-training models from scratch can be a very computationally intensive process
-requiring days or even weeks, we provide various pre-trained models,
-as listed below. These CNNs have been trained on the
-[ILSVRC-2012-CLS](http://www.image-net.org/challenges/LSVRC/2012/)
-image classification dataset.
+## Image recognition
 
-In the table below, we list each model, the corresponding
 TensorFlow model file, the link to the model checkpoint, and the top 1 and top 5
 accuracy (on the imagenet test set).
 Note that the VGG and ResNet V1 parameters have been converted from their original
