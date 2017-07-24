@@ -53,7 +53,7 @@ Show and Tell | https://github.com/KranthiGV/Pretrained-Show-and-Tell-model
 OpenNMT  | http://opennmt.net/Models/
 
 ## Text translation
-
+Model | Url  | 
 :----:|:------------:|
 OpenNMT 
 English -> German, German -> English, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO,  | http://opennmt.net/Models/
@@ -61,7 +61,7 @@ English -> German, German -> English, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO
 
 
 ## Text summarization
-
+Model | Url  | 
 :----:|:------------:|
 OpenNMT (English)  | http://opennmt.net/Models/
 
