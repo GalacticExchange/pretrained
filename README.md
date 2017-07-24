@@ -63,6 +63,8 @@ Webcam Pix2Pix https://github.com/memo/webcam-pix2pix-tensorflow
 
 Show and Tell : A Neural Image Caption Generator https://github.com/KranthiGV/Pretrained-Show-and-Tell-model
 
+Pretrained ConvNets for pytorch: ResNeXt101, ResNet152, InceptionV4, InceptionResnetV2, etc. https://github.com/Cadene/pretrained-models.pytorch
+
 ## Text translation, summarization etc
 
 OpenNMT (http://opennmt.net/Models/)
