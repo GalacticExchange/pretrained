@@ -65,19 +65,13 @@ Show and Tell : A Neural Image Caption Generator https://github.com/KranthiGV/Pr
 
 OpenNMT (http://opennmt.net/Models/)
 
-English -> German
+Includes: English -> German, German -> English, English Summarization, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO, Image-to-text generation.
 
-German -> English
+## Semantic segmentation
 
-English Summarization
+Semantic segmentation https://github.com/ndrplz/dilation-tensorflow
 
-Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO
-
-Image-to-text generation.
-
-
-Semantic Segmentation https://github.com/ndrplz/dilation-tensorflow
-
+Semantic segmentation 2 http://www.vlfeat.org/matconvnet/pretrained/#semantic-segmentation
 
 
 ## Speech recognition
