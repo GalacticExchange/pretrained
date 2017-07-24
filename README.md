@@ -69,7 +69,7 @@ Model | Url  |
 :----:|:------------:|
 Dilated Convolutions | https://github.com/ndrplz/dilation-tensorflow
 
-Semantic segmentation 2 | http://www.vlfeat.org/matconvnet/pretrained/#semantic-segmentation
+BVLC FCN | http://www.vlfeat.org/matconvnet/pretrained/#semantic-segmentation
 
 
 ## Speech recognition
