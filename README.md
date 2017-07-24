@@ -92,7 +92,6 @@ Model | Url  |
 Baidu Warp-CTC   | https://github.com/SeanNaren/deepspeech.torch
 Wavenet | https://github.com/buriburisuri/speech-to-text-wavenet
 
-## Sound generatoin
+## Text to Speech 
 
-Wavenet | https://cybercom-finland.github.io/hacking-great-3/t3-communist-ai/
 
