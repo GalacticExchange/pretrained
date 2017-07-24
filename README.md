@@ -55,7 +55,7 @@ OpenNMT  | http://opennmt.net/Models/
 
 ## Text translation
 
-:----:|:------------:|
+|:----:|:------------:|
 OpenNMT 
 English -> German, German -> English, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO,  | http://opennmt.net/Models/
 
@@ -63,12 +63,12 @@ English -> German, German -> English, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO
 
 ## Text summarization
 
-:----:|:------------:|
+|:----:|:------------:|
 OpenNMT (English)  | http://opennmt.net/Models/
 
 ## Semantic segmentation
 Model | Url  | 
-:----:|:------------:|
+|:----:|:------------:|
 Semantic segmentation | https://github.com/ndrplz/dilation-tensorflow
 
 Semantic segmentation 2 | http://www.vlfeat.org/matconvnet/pretrained/#semantic-segmentation
@@ -77,7 +77,7 @@ Semantic segmentation 2 | http://www.vlfeat.org/matconvnet/pretrained/#semantic-
 ## Speech recognition
 
 Model | Url  | 
-:----:|:------------:|
+|:----:|:------------:|
 Baidu Warp-CTC   | https://github.com/SeanNaren/deepspeech.torch
 
 
