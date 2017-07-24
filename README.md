@@ -8,7 +8,7 @@ Want to add your model? File an issue, and we will add it.
 
 Model | Url  | 
 :----:|:------------:|
-[Inception V1](http://arxiv.org/abs/1409.4842v1)| |https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[Inception V1](http://arxiv.org/abs/1409.4842v1)| https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [Inception V2](http://arxiv.org/abs/1502.03167)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [Inception V3](http://arxiv.org/abs/1512.00567)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [Inception-ResNet-v2](http://arxiv.org/abs/1602.07261)| https://github.com/tensorflow/models/tree/master/slim#Pretrained
@@ -27,25 +27,29 @@ Model | Url  |
 [MobileNet_v1_0.50_160](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [MobileNet_v1_0.25_128](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 Pretrained ConvNets for pytorch: ResNeXt101, ResNet152, InceptionV4, InceptionResnetV2, etc. | https://github.com/Cadene/pretrained-models.pytorch
-
 DenseNet | https://github.com/flyyufelix/DenseNet-Keras 
 
 
 ## Object detection
 
+Model | Url  | 
+:----:|:------------:|
 http://www.vlfeat.org/matconvnet/pretrained/#object-detection
 
 ## Face recognition
-
-VGG-Face.  http://www.vlfeat.org/matconvnet/pretrained/#face-recognition
+Model | Url  | 
+:----:|:------------:|
+VGG-Face |  http://www.vlfeat.org/matconvnet/pretrained/#face-recognition
 
 ## Pix2Pix style transfer
-
-Webcam Pix2Pix https://github.com/memo/webcam-pix2pix-tensorflow
+Model | Url  | 
+:----:|:------------:|
+Webcam Pix2Pix | https://github.com/memo/webcam-pix2pix-tensorflow
 
 ## Image caption generation
-
-Show and Tell : A Neural Image Caption Generator https://github.com/KranthiGV/Pretrained-Show-and-Tell-model
+Model | Url  | 
+:----:|:------------:|
+Show and Tell | https://github.com/KranthiGV/Pretrained-Show-and-Tell-model
 
 
 ## Text translation, summarization etc
@@ -55,15 +59,18 @@ OpenNMT (http://opennmt.net/Models/)
 Includes: English -> German, German -> English, English Summarization, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO, Image-to-text generation.
 
 ## Semantic segmentation
+Model | Url  | 
+:----:|:------------:|
+Semantic segmentation | https://github.com/ndrplz/dilation-tensorflow
 
-Semantic segmentation https://github.com/ndrplz/dilation-tensorflow
-
-Semantic segmentation 2 http://www.vlfeat.org/matconvnet/pretrained/#semantic-segmentation
+Semantic segmentation 2 | http://www.vlfeat.org/matconvnet/pretrained/#semantic-segmentation
 
 
 ## Speech recognition
 
-Baidu Warp-CTC  (https://github.com/SeanNaren/deepspeech.torch)
+Model | Url  | 
+:----:|:------------:|
+Baidu Warp-CTC   | https://github.com/SeanNaren/deepspeech.torch
 
 
 
