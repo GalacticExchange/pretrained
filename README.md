@@ -47,17 +47,24 @@ Model | Url  |
 :----:|:------------:|
 Webcam Pix2Pix | https://github.com/memo/webcam-pix2pix-tensorflow
 
-## Image caption generation
+## Image to text generation
 Model | Url  | 
 :----:|:------------:|
 Show and Tell | https://github.com/KranthiGV/Pretrained-Show-and-Tell-model
+OpenNMT  | http://opennmt.net/Models/
+
+## Text translation
+
+:----:|:------------:|
+OpenNMT 
+English -> German, German -> English, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO,  | http://opennmt.net/Models/
 
 
-## Text translation, summarization etc
 
-OpenNMT (http://opennmt.net/Models/)
+## Text summarization
 
-Includes: English -> German, German -> English, English Summarization, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO, Image-to-text generation.
+:----:|:------------:|
+OpenNMT (English)  | http://opennmt.net/Models/
 
 ## Semantic segmentation
 Model | Url  | 
