@@ -1,6 +1,8 @@
 # Pretrained
 
-The most complete and frequently updated list of pretrained top-performing models. Tensorflow, Theano and others.
+The most complete and frequently updated list of pretrained top-performing models. Tensorflow, Theano and others. 
+
+Want to add your model? File an issue, and we will add it.
 
 ## Image recognition
 
@@ -16,32 +18,32 @@ Google. Also be aware that these accuracies were computed by evaluating using a
 single image crop. Some academic papers report higher accuracy by using multiple
 crops at multiple scales.
 
-Model | TF-Slim File | Checkpoint | Top-1 Accuracy| Top-5 Accuracy | Dataset 
-:----:|:------------:|:----------:|:-------:|:--------:| :--------:|
-[Inception V1](http://arxiv.org/abs/1409.4842v1)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/inception_v1.py)|[inception_v1_2016_08_28.tar.gz](http://download.tensorflow.org/models/inception_v1_2016_08_28.tar.gz)|69.8|89.6| [ILSVRC-2012-CLS](http://www.image-net.org/challenges/LSVRC/2012/) |
-[Inception V2](http://arxiv.org/abs/1502.03167)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/inception_v2.py)|[inception_v2_2016_08_28.tar.gz](http://download.tensorflow.org/models/inception_v2_2016_08_28.tar.gz)|73.9|91.8| same |
-[Inception V3](http://arxiv.org/abs/1512.00567)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/inception_v3.py)|[inception_v3_2016_08_28.tar.gz](http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz)|78.0|93.9| same |
-[Inception V4](http://arxiv.org/abs/1602.07261)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/inception_v4.py)|[inception_v4_2016_09_09.tar.gz](http://download.tensorflow.org/models/inception_v4_2016_09_09.tar.gz)|80.2|95.2| same |
-[Inception-ResNet-v2](http://arxiv.org/abs/1602.07261)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/inception_resnet_v2.py)|[inception_resnet_v2_2016_08_30.tar.gz](http://download.tensorflow.org/models/inception_resnet_v2_2016_08_30.tar.gz)|80.4|95.3| same |
-[ResNet V1 50](https://arxiv.org/abs/1512.03385)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/resnet_v1.py)|[resnet_v1_50_2016_08_28.tar.gz](http://download.tensorflow.org/models/resnet_v1_50_2016_08_28.tar.gz)|75.2|92.2| same |
-[ResNet V1 101](https://arxiv.org/abs/1512.03385)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/resnet_v1.py)|[resnet_v1_101_2016_08_28.tar.gz](http://download.tensorflow.org/models/resnet_v1_101_2016_08_28.tar.gz)|76.4|92.9| same |
-[ResNet V1 152](https://arxiv.org/abs/1512.03385)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/resnet_v1.py)|[resnet_v1_152_2016_08_28.tar.gz](http://download.tensorflow.org/models/resnet_v1_152_2016_08_28.tar.gz)|76.8|93.2| same |
-[ResNet V2 50](https://arxiv.org/abs/1603.05027)^|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/resnet_v2.py)|[resnet_v2_50_2017_04_14.tar.gz](http://download.tensorflow.org/models/resnet_v2_50_2017_04_14.tar.gz)|75.6|92.8| same |
-[ResNet V2 101](https://arxiv.org/abs/1603.05027)^|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/resnet_v2.py)|[resnet_v2_101_2017_04_14.tar.gz](http://download.tensorflow.org/models/resnet_v2_101_2017_04_14.tar.gz)|77.0|93.7| same |
-[ResNet V2 152](https://arxiv.org/abs/1603.05027)^|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/resnet_v2.py)|[resnet_v2_152_2017_04_14.tar.gz](http://download.tensorflow.org/models/resnet_v2_152_2017_04_14.tar.gz)|77.8|94.1| same |
-[ResNet V2 200](https://arxiv.org/abs/1603.05027)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/resnet_v2.py)|[TBA]()|79.9\*|95.2\*|
-[VGG 16](http://arxiv.org/abs/1409.1556.pdf)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/vgg.py)|[vgg_16_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz)|71.5|89.8| same |
-[VGG 19](http://arxiv.org/abs/1409.1556.pdf)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/vgg.py)|[vgg_19_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_19_2016_08_28.tar.gz)|71.1|89.8| same |
-[MobileNet_v1_1.0_224](https://arxiv.org/pdf/1704.04861.pdf)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.py)|[mobilenet_v1_1.0_224_2017_06_14.tar.gz](http://download.tensorflow.org/models/mobilenet_v1_1.0_224_2017_06_14.tar.gz)|70.7|89.5| same |
-[MobileNet_v1_0.50_160](https://arxiv.org/pdf/1704.04861.pdf)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.py)|[mobilenet_v1_0.50_160_2017_06_14.tar.gz](http://download.tensorflow.org/models/mobilenet_v1_0.50_160_2017_06_14.tar.gz)|59.9|82.5| same |
-[MobileNet_v1_0.25_128](https://arxiv.org/pdf/1704.04861.pdf)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.py)|[mobilenet_v1_0.25_128_2017_06_14.tar.gz](http://download.tensorflow.org/models/mobilenet_v1_0.25_128_2017_06_14.tar.gz)|41.3|66.2| same |
+Model | Url  | 
+:----:|:------------:|
+[Inception V1](http://arxiv.org/abs/1409.4842v1)| |https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[Inception V2](http://arxiv.org/abs/1502.03167)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[Inception V3](http://arxiv.org/abs/1512.00567)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[Inception-ResNet-v2](http://arxiv.org/abs/1602.07261)| https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[ResNet V1 50](https://arxiv.org/abs/1512.03385)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[ResNet V1 101](https://arxiv.org/abs/1512.03385)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[ResNet V1 152](https://arxiv.org/abs/1512.03385)| https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[ResNet V2 50](https://arxiv.org/abs/1603.05027) | https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[ResNet V2 101](https://arxiv.org/abs/1603.05027)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[ResNet V2 152](https://arxiv.org/abs/1603.05027) | https://github.com/tensorflow/models/tree/master/slim#Pretrained 
+[ResNet V2 200](https://arxiv.org/abs/1603.05027)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[VGG 16](http://arxiv.org/abs/1409.1556.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 
+[vgg_16_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz)|71.5|89.8| same |
 
-Pretrained ConvNets for pytorch: ResNeXt101, ResNet152, InceptionV4, InceptionResnetV2, etc. https://github.com/Cadene/pretrained-models.pytorch
+[VGG 19](http://arxiv.org/abs/1409.1556.pdf)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/vgg.py)|
+[vgg_19_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_19_2016_08_28.tar.gz)|71.1|89.8| same |
 
+[MobileNet_v1_1.0_224](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[MobileNet_v1_0.50_160](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[MobileNet_v1_0.25_128](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+Pretrained ConvNets for pytorch: ResNeXt101, ResNet152, InceptionV4, InceptionResnetV2, etc. | https://github.com/Cadene/pretrained-models.pytorch
 
-
-DenseNet https://github.com/flyyufelix/DenseNet-Keras
+DenseNet | https://github.com/flyyufelix/DenseNet-Keras 
 
 
 ## Object detection
