@@ -1,9 +1,6 @@
 # Pretrained
 
-## Pretrained: Tensorflow, Theano and other models, pretrained.
-
-# Pre-trained Models
-<a id='Pretrained'></a>
+Tensorflow, Theano and other models, pretrained.
 
 ## Image recognition
 
@@ -61,7 +58,7 @@ $ rm inception_v3_2016_08_28.tar.gz
 
 ## Seq2Seq Text
 
-OpenNMT
+OpenNMT (http://opennmt.net/Models/)
 
 English -> German
 
@@ -74,7 +71,7 @@ Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO
 Image-to-text generation.
 
 
-(http://opennmt.net/Models/)
+
 
 
 
