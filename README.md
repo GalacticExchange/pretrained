@@ -6,18 +6,6 @@ Want to add your model? File an issue, and we will add it.
 
 ## Image recognition
 
-TensorFlow model file, the link to the model checkpoint, and the top 1 and top 5
-accuracy (on the imagenet test set).
-Note that the VGG and ResNet V1 parameters have been converted from their original
-caffe formats
-([here](https://github.com/BVLC/caffe/wiki/Model-Zoo#models-used-by-the-vgg-team-in-ilsvrc-2014)
-and
-[here](https://github.com/KaimingHe/deep-residual-networks)),
-whereas the Inception and ResNet V2 parameters have been trained internally at
-Google. Also be aware that these accuracies were computed by evaluating using a
-single image crop. Some academic papers report higher accuracy by using multiple
-crops at multiple scales.
-
 Model | Url  | 
 :----:|:------------:|
 [Inception V1](http://arxiv.org/abs/1409.4842v1)| |https://github.com/tensorflow/models/tree/master/slim#Pretrained
@@ -32,12 +20,9 @@ Model | Url  |
 [ResNet V2 152](https://arxiv.org/abs/1603.05027) | https://github.com/tensorflow/models/tree/master/slim#Pretrained 
 [ResNet V2 200](https://arxiv.org/abs/1603.05027)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [VGG 16](http://arxiv.org/abs/1409.1556.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-
-[vgg_16_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz)|71.5|89.8| same |
-
-[VGG 19](http://arxiv.org/abs/1409.1556.pdf)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/vgg.py)|
-[vgg_19_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_19_2016_08_28.tar.gz)|71.1|89.8| same |
-
+[vgg_16_2016_08_28.tar.gz | https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[VGG 19](http://arxiv.org/abs/1409.1556.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[vgg_19_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_19_2016_08_28.tar.gz)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [MobileNet_v1_1.0_224](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [MobileNet_v1_0.50_160](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [MobileNet_v1_0.25_128](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
