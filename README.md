@@ -57,7 +57,7 @@ $ rm inception_v3_2016_08_28.tar.gz
 ```
 
 
-DenseNet (https://github.com/flyyufelix/DenseNet-Keras)
+DenseNet https://github.com/flyyufelix/DenseNet-Keras
 
 ## Text translation, summarization etc
 
