@@ -56,7 +56,7 @@ $ mv inception_v3.ckpt ${CHECKPOINT_DIR}
 $ rm inception_v3_2016_08_28.tar.gz
 ```
 
-## Seq2Seq Text
+## Text translation, summarization etc
 
 OpenNMT (http://opennmt.net/Models/)
 
@@ -70,7 +70,9 @@ Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO
 
 Image-to-text generation.
 
+## Speech recognition
 
+Baidu Warp-CTC  (https://github.com/SeanNaren/deepspeech.torch)
 
 
 
