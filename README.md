@@ -44,6 +44,7 @@ VGG-Face |  http://www.vlfeat.org/matconvnet/pretrained/#face-recognition
 ## Pix2Pix style transfer
 Model | Url  | 
 :----:|:------------:|
+Conditional adversarial nets | https://github.com/phillipi/pix2pix
 Webcam Pix2Pix | https://github.com/memo/webcam-pix2pix-tensorflow
 
 ## Image to text generation
