@@ -67,7 +67,7 @@ OpenNMT (English)  | http://opennmt.net/Models/
 ## Semantic segmentation
 Model | Url  | 
 :----:|:------------:|
-Semantic segmentation | https://github.com/ndrplz/dilation-tensorflow
+Dilated Convolutions | https://github.com/ndrplz/dilation-tensorflow
 
 Semantic segmentation 2 | http://www.vlfeat.org/matconvnet/pretrained/#semantic-segmentation
 
