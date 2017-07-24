@@ -35,6 +35,7 @@ DenseNet | https://github.com/flyyufelix/DenseNet-Keras
 Model | Url  | 
 :----:|:------------:|
 Fast-RCNN | https://github.com/rbgirshick/fast-rcnn
+Faster-RCNN | https://github.com/ShaoqingRen/faster_rcnn
 
 ## Face recognition
 Model | Url  | 
