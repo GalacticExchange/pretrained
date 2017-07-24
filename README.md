@@ -57,4 +57,15 @@ $ wget http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz
 $ tar -xvf inception_v3_2016_08_28.tar.gz
 $ mv inception_v3.ckpt ${CHECKPOINT_DIR}
 $ rm inception_v3_2016_08_28.tar.gz
-```
+
+
+## Seq2Seq Text
+
+OpenNMT
+
+English -> German
+German -> English
+English Summarization
+Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO
+
+(http://opennmt.net/Models/)
