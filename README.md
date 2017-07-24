@@ -59,6 +59,8 @@ $ rm inception_v3_2016_08_28.tar.gz
 
 DenseNet https://github.com/flyyufelix/DenseNet-Keras
 
+Webcam Pix2Pix https://github.com/memo/webcam-pix2pix-tensorflow
+
 ## Text translation, summarization etc
 
 OpenNMT (http://opennmt.net/Models/)
