@@ -79,6 +79,12 @@ Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO
 
 Image-to-text generation.
 
+
+Semantic Segmentation https://github.com/ndrplz/dilation-tensorflow
+
+
+
+
 ## Speech recognition
 
 Baidu Warp-CTC  (https://github.com/SeanNaren/deepspeech.torch)
