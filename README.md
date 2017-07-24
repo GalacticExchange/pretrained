@@ -36,34 +36,30 @@ Model | TF-Slim File | Checkpoint | Top-1 Accuracy| Top-5 Accuracy | Dataset
 [MobileNet_v1_0.50_160](https://arxiv.org/pdf/1704.04861.pdf)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.py)|[mobilenet_v1_0.50_160_2017_06_14.tar.gz](http://download.tensorflow.org/models/mobilenet_v1_0.50_160_2017_06_14.tar.gz)|59.9|82.5| same |
 [MobileNet_v1_0.25_128](https://arxiv.org/pdf/1704.04861.pdf)|[Code](https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.py)|[mobilenet_v1_0.25_128_2017_06_14.tar.gz](http://download.tensorflow.org/models/mobilenet_v1_0.25_128_2017_06_14.tar.gz)|41.3|66.2| same |
 
-^ ResNet V2 models use Inception pre-processing and input image size of 299 (use 
-`--preprocessing_name inception --eval_image_size 299` when using
-`eval_image_classifier.py`). Performance numbers for ResNet V2 models are
-reported on the ImageNet validation set.
 
-All 16 MobileNet Models reported in the [MobileNet Paper](https://arxiv.org/abs/1704.04861) can be found [here](https://github.com/tensorflow/models/tree/master/slim/nets/mobilenet_v1.md).
+Pretrained ConvNets for pytorch: ResNeXt101, ResNet152, InceptionV4, InceptionResnetV2, etc. https://github.com/Cadene/pretrained-models.pytorch
 
-(\*): Results quoted from the [paper](https://arxiv.org/abs/1603.05027).
-
-Here is an example of how to download the Inception V3 checkpoint:
-
-```shell
-$ CHECKPOINT_DIR=/tmp/checkpoints
-$ mkdir ${CHECKPOINT_DIR}
-$ wget http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz
-$ tar -xvf inception_v3_2016_08_28.tar.gz
-$ mv inception_v3.ckpt ${CHECKPOINT_DIR}
-$ rm inception_v3_2016_08_28.tar.gz
-```
 
 
 DenseNet https://github.com/flyyufelix/DenseNet-Keras
 
+
+## Object detection
+
+http://www.vlfeat.org/matconvnet/pretrained/#object-detection
+
+## Face recognition
+
+VGG-Face.  http://www.vlfeat.org/matconvnet/pretrained/#face-recognition
+
+## Pix2Pix style transfer
+
 Webcam Pix2Pix https://github.com/memo/webcam-pix2pix-tensorflow
+
+## Image caption generation
 
 Show and Tell : A Neural Image Caption Generator https://github.com/KranthiGV/Pretrained-Show-and-Tell-model
 
-Pretrained ConvNets for pytorch: ResNeXt101, ResNet152, InceptionV4, InceptionResnetV2, etc. https://github.com/Cadene/pretrained-models.pytorch
 
 ## Text translation, summarization etc
 
@@ -81,7 +77,6 @@ Image-to-text generation.
 
 
 Semantic Segmentation https://github.com/ndrplz/dilation-tensorflow
-
 
 
 
