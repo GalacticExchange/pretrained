@@ -20,7 +20,6 @@ Model | Url  |
 [ResNet V2 152](https://arxiv.org/abs/1603.05027) | https://github.com/tensorflow/models/tree/master/slim#Pretrained 
 [ResNet V2 200](https://arxiv.org/abs/1603.05027)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [VGG 16](http://arxiv.org/abs/1409.1556.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[vgg_16_2016_08_28.tar.gz | https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [VGG 19](http://arxiv.org/abs/1409.1556.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [vgg_19_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_19_2016_08_28.tar.gz)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
 [MobileNet_v1_1.0_224](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
@@ -55,7 +54,7 @@ OpenNMT  | http://opennmt.net/Models/
 
 ## Text translation
 
-|:----:|:------------:|
+:----:|:------------:|
 OpenNMT 
 English -> German, German -> English, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO,  | http://opennmt.net/Models/
 
@@ -63,12 +62,12 @@ English -> German, German -> English, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO
 
 ## Text summarization
 
-|:----:|:------------:|
+:----:|:------------:|
 OpenNMT (English)  | http://opennmt.net/Models/
 
 ## Semantic segmentation
 Model | Url  | 
-|:----:|:------------:|
+:----:|:------------:|
 Semantic segmentation | https://github.com/ndrplz/dilation-tensorflow
 
 Semantic segmentation 2 | http://www.vlfeat.org/matconvnet/pretrained/#semantic-segmentation
@@ -77,7 +76,7 @@ Semantic segmentation 2 | http://www.vlfeat.org/matconvnet/pretrained/#semantic-
 ## Speech recognition
 
 Model | Url  | 
-|:----:|:------------:|
+:----:|:------------:|
 Baidu Warp-CTC   | https://github.com/SeanNaren/deepspeech.torch
 
 
