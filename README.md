@@ -64,11 +64,15 @@ $ rm inception_v3_2016_08_28.tar.gz
 OpenNMT
 
 English -> German
+
 German -> English
+
 English Summarization
+
 Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO
-Summarization 
+
 Image-to-text generation.
+
 
 (http://opennmt.net/Models/)
 
