@@ -90,7 +90,8 @@ BVLC FCN | http://www.vlfeat.org/matconvnet/pretrained/#semantic-segmentation
 Model | Url  | 
 :----:|:------------:|
 Baidu Warp-CTC   | https://github.com/SeanNaren/deepspeech.torch
+Wavenet | https://github.com/buriburisuri/speech-to-text-wavenet
 
-
+## Text to Speech 
 
 
