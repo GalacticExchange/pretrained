@@ -61,6 +61,8 @@ DenseNet https://github.com/flyyufelix/DenseNet-Keras
 
 Webcam Pix2Pix https://github.com/memo/webcam-pix2pix-tensorflow
 
+Show and Tell : A Neural Image Caption Generator https://github.com/KranthiGV/Pretrained-Show-and-Tell-model
+
 ## Text translation, summarization etc
 
 OpenNMT (http://opennmt.net/Models/)
