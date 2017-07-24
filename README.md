@@ -1,6 +1,6 @@
 # Pretrained
 
-Tensorflow, Theano and other models, pretrained.
+The most complete and frequently updated list of top-performing Tensorflow, Theano and other models, pretrained.
 
 ## Image recognition
 
