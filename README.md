@@ -55,8 +55,7 @@ OpenNMT  | http://opennmt.net/Models/
 ## Text translation
 Model | Url  | 
 :----:|:------------:|
-OpenNMT 
-English -> German, German -> English, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO,  | http://opennmt.net/Models/
+OpenNMT (English -> German, German -> English, Multi-way - FR,ES,PT,IT,RO<>FR,ES,PT,IT,RO)  | http://opennmt.net/Models/
 
 
 
