@@ -65,6 +65,18 @@ Model | Url  |
 :----:|:------------:|
 OpenNMT (English)  | http://opennmt.net/Models/
 
+
+
+## Word vectors
+Model | Url  | 
+:----:|:------------:|
+FastText (294 languages) | https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
+Word2Vec | https://github.com/Kyubyong/wordvectors
+Glove  | https://nlp.stanford.edu/projects/glove/
+LexVec | https://github.com/alexandres/lexvec
+Meta-Embeddings | http://cistern.cis.lmu.de/meta-emb/
+
+
 ## Semantic segmentation
 Model | Url  | 
 :----:|:------------:|
