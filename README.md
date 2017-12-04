@@ -2,7 +2,7 @@
 
 The most complete and frequently updated list of pretrained top-performing models. Tensorflow, Theano and others. 
 
-Want to add your model? File an issue, and we will add it.
+Want to add your model? File an issue, and we will add your model, usually within 24 hours.
 
 ## Image recognition
 
