@@ -28,7 +28,6 @@ Model | Url  |
 Pretrained ConvNets for pytorch: ResNeXt101, ResNet152, InceptionV4, InceptionResnetV2, etc. | https://github.com/Cadene/pretrained-models.pytorch
 DenseNet | https://github.com/flyyufelix/DenseNet-Keras 
 
-
 ## Object detection
 
 Model | Url  | 
